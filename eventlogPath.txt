@@ -1,0 +1,54 @@
+Service started at :12/14/2021 8:22:17 PM
+checking for new files
+checking for updated files
+sleeping for 3 minutes
+Service started at :12/14/2021 8:34:57 PM
+checking for new files
+checking for updated files
+sleeping for 3 minutes
+checking for new files
+new files exist
+copying to dest folder
+copying to dest folder
+New files since 12/14/2021 8:34:57 PM
+New Files :kdkdkdfsdf.txt
+New Files :kndsndnnk.txt
+checking for updated files
+updated files exist
+copying to dest folder
+copying to dest folder
+Updated files since 12/14/2021 8:34:57 PM
+Updated Files :hello.txt
+Updated Files :temp.txt
+sleeping for 1 minutes
+checking for new files
+checking for updated files
+sleeping for 3 minutes
+checking for new files
+checking for updated files
+updated files exist
+copying to dest folder
+Updated files since 12/14/2021 8:38:58 PM
+Updated Files :four.txt
+sleeping for 1 minutes
+checking for new files
+checking for updated files
+sleeping for 3 minutes
+checking for new files
+checking for updated files
+sleeping for 5 minutesService started at :12/15/2021 8:07:42 AM
+checking for new files
+checking for updated files
+sleeping for 3 minutes
+checking for new files
+checking for updated files
+sleeping for 5 minutes
+checking for new files
+checking for updated files
+sleeping for 7 minutes
+checking for new files
+checking for updated files
+sleeping for 9 minutes
+checking for new files
+checking for updated files
+sleeping for 11 minutes
